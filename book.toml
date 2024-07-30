@@ -1,0 +1,6 @@
+[book]
+authors = ["Jens Chr. Larsen"]
+language = "da"
+multilingual = false
+src = "src"
+title = "Den lille bog om design af fysiske prototyper"
