@@ -4,7 +4,7 @@
 
 # Prototyper og designprincipper
 
-- [Prototyper]()
+- [Prototyper](./prototyper.md)
     - [Brugertest]()
 - [Designprincipper]()
     - [Storyboard]()
