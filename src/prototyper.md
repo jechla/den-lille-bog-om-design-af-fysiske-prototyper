@@ -27,6 +27,9 @@ Formålet er at hurtigt at få lavet en skites af det vi har tænkt og som vi hu
 
 Ideen med papirprototyper er at lave flere tegninger, der hver især viser forskellige skærmbilleder alt efter, hvad der er kan ske, når en bruger anvender det tænkte produkt. På den måde kan man indfange det dynamiske i anvendelse af ens produkt.
 
+Et eksempel
+![Papirprototype](./assets/papirprototype.png)
+
 Så generelt:
 * Papirprototyper er et første forsøg på at lave noget der kan undersøges.
 * Papirprototyper skal kunne smides ud, hvis de ikke er gode.
