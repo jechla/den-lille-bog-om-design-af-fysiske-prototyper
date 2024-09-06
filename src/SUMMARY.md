@@ -6,8 +6,14 @@
 
 - [Prototyper](./prototyper.md)
     - [Brugertest](./brugertest.md)
-- [Designprincipper](./designprincipper.md)
     - [Storyboard]()
+- [Designprincipper](./designprincipper.md)
+    - [Visibility](./visibility.md)
+    - [Feedback](./feedback.md)
+    - [Constraints](./constraints.md)
+    - [Consistency](./consistency.md)
+    - [Mapping](./mapping.md)
+    - [Affordance](./affordance.md)    
 
 # Micro:bit programmering og sensorer
 - [Programmer og computere]()
