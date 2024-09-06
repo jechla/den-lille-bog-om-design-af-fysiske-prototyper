@@ -5,8 +5,8 @@
 # Prototyper og designprincipper
 
 - [Prototyper](./prototyper.md)
-    - [Brugertest]()
-- [Designprincipper]()
+    - [Brugertest](./brugertest.md)
+- [Designprincipper](./designprincipper.md)
     - [Storyboard]()
 
 # Micro:bit programmering og sensorer

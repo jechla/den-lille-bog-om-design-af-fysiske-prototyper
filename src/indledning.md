@@ -3,7 +3,7 @@ Den lille bog om design af fysiske prototyper hedder sådan, fordi den kun berø
 
 Udgangspunktet er ikke programmering, men derimod design. Det er ikke det samme som, at der ikke optræder programmering. Det vil være sådan, at programmering er et værktøj til at få et design til at virke.
 
-I forhold til design er der nogle ting, der mangler og som kunne tilføjes. Men bogen er tænkt som en indledning og ikke som et fuldstændigt katalog overdesignteknikker. 
+I forhold til design er der nogle ting, der mangler og som kunne tilføjes. Men bogen er tænkt som en indledning og ikke som et fuldstændigt katalog over designteknikker. 
 
 ## Licens
 Denne bog er copyright (c) 2024 af Jens Chr. Larsen. Bogen er udgivet under en [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) licens. Hvilket giver ret til at anvende bogen i vid udstrækning. Bogens kildekode kan findes på [github](https://github.com/jechla/den-lille-bog-om-design-af-fysiske-prototyper).

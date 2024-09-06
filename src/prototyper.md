@@ -27,11 +27,37 @@ Formålet er at hurtigt at få lavet en skites af det vi har tænkt og som vi hu
 
 Ideen med papirprototyper er at lave flere tegninger, der hver især viser forskellige skærmbilleder alt efter, hvad der er kan ske, når en bruger anvender det tænkte produkt. På den måde kan man indfange det dynamiske i anvendelse af ens produkt.
 
-Et eksempel
+Et eksempel på en papirprototype kan ses her:
+
 ![Papirprototype](./assets/papirprototype.png)
+
+Det er en prototype af en standard login-skærm som de ser ud i mobilapps. Der er tre billeder, fordi brugeren af appen først møder login-skærmen, så skal taste sine oplysninger og så logge på. Hvert billede viser en af de tre situationer. Det tog under 5 minutter at tegne alle tre skærme. Det burde være til at se hvad hver skærm viser, men det burde også være tydeligt, at der ikke er gået efter, at det skal være pænt.
+
+Det er også muligt at lave papirprototyper af fysiske objekter. Her tegnes objektet i forskellige udgaver, alt efter hvilken tilstand det er i.
 
 Så generelt:
 * Papirprototyper er et første forsøg på at lave noget der kan undersøges.
 * Papirprototyper skal kunne smides ud, hvis de ikke er gode.
 * Papirprototyper skal derfor laves hurtigt og ikke alt for pænt.
 * En papirprototype er altid en lo-fi prototype.
+
+### Fysiske prototyper
+
+Efter papirprototypen, som ingenting kan, men som ligner, så kan det være nødvendigt at skabe en prototype, der kan noget, men som ikke ligner. Dette kan laves ved hjælp af en fysisk prototype. Der findes forskellige platforme (små computere), der kan programmeres til alt muligt. Netop fordi de kan programmeres, kan de anvendes til at undersøge om forskellige handlinger er mulige for brugeren. For eksempel kan vi få en dør til at åbne sig, hvis bestemt person kommer tæt nok på døren, men være lukket for alle andre?
+
+Vi giver et eksempel på en fysisk prototype, der har til formål at få brugeren til gå i en bestemt hastighed.
+
+![Fysisk prototype](./assets/fysiskprototype.png)
+
+Prototypen består af to micro:bit. På billede 1 kan den ene micro:bit ses i en plastikpose, der er spændt om benet. Den anden micro:bit (billede 1,2 og 3) fortæller brugeren vedkommende går for langsomt (billede 2), rammer hastigheden (billede 3) eller går for hurtigt (billede 4).
+
+Denne prototype er programmeret til at gøre noget bestemt. Det prototypen kan anvendes til er at undersøge om det er muligt for folk at holde tempoet, men også at undersøge om det, der er programmeret, virker. Således er den fysiske prototype tættere på det endelige produkt, men vi skal nok ikke regne med at brugeren vil sætte en plastikpose fast til benet. Så det er stadig en lo-fi prototype. Vi kan selvfølgelig nærme os en hi-fi prototype ved at se på indpakningen af udstyret.
+
+Så generelt:
+* Fysiske prototyper kan noget.
+* Fysiske prototyper skal programmeres før de kan noget.
+* Der er flere ting vi kan undersøge med en fysisk prototype.
+* En fysisk prototype er mere hi-fi end en papirprototype, men er stadig en lo-fi prototype.
+
+## Afrunding
+Vi har ovenover præsenteret prototypebegrebet og vist to eksempler på prototyper. Prototyperne skal dog anvendes til noget, nemlig til undersøge om brugeren af vores produkt kan anvende produktet. Vi ser derfor på brugerundersøgelser med prototyper.
