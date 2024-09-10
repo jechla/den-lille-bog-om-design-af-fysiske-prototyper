@@ -16,4 +16,4 @@ Denne knap har faktisk feedback: Den fortæller, at den er blevet trykket ind - 
 
 ![God feedback](./assets/visibility-feedback-good.png)
 
-Igen er knapper gode til at fortælle os, at vi har trykket på dem. Vi kan simpelthen mærke, at vi har haft succes med at trykke på en knap. Vi behøver ikke at efter.
+Igen er knapper gode til at fortælle os, at vi har trykket på dem. Vi kan simpelthen mærke, at vi har haft succes med at trykke på en knap. Vi behøver ikke at se efter.

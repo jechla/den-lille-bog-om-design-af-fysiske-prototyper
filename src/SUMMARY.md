@@ -6,7 +6,7 @@
 
 - [Prototyper](./prototyper.md)
     - [Brugertest](./brugertest.md)
-    - [Storyboard]()
+    - [Storyboard](./storyboard.md)
 - [Designprincipper](./designprincipper.md)
     - [Visibility](./visibility.md)
     - [Feedback](./feedback.md)
@@ -25,11 +25,10 @@
     - [forgreninger]()
 
 # Design af fysiske prototyper
-- [Introduktion]()
-    - [Idégenerering]()
-    - [Fra fysisk virkelighed til kode]()
-    - [Et eksempel]()
-        - [Storyboard]()
-        - [Tilstandsdiagram]()
-        - [Rutediagram]()
-        - [Kode]()
+- [Introduktion](./introeks.md)
+    - [Idégenerering](./idegenerering.md)
+    - [Et eksempel](./eksempel.md)
+        - [Storyboard](./storyboardeks.md)
+        - [Tilstandsdiagram](./tilstandeks.md)
+        - [Rutediagram](./rutediagrameks.md)
+        - [Kode](./kodeeks.md)
