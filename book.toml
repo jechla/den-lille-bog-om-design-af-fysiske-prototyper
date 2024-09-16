@@ -4,3 +4,6 @@ language = "da"
 multilingual = false
 src = "src"
 title = "Den lille bog om design af fysiske prototyper"
+
+[output.html]
+git-repository-url = "https://github.com/jechla/den-lille-bog-om-design-af-fysiske-prototyper"

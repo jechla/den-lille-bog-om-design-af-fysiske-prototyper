@@ -32,3 +32,4 @@
         - [Tilstandsdiagram](./tilstandeks.md)
         - [Rutediagram](./rutediagrameks.md)
         - [Kode](./kodeeks.md)
+    - [Afslutning](./afslutning.md)
