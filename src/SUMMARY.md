@@ -19,12 +19,14 @@
 - [Programmer og computere]()
     - [Tilstandsdiagrammer]()
     - [Rutediagrammer]() 
-- [Introduktion til micro:bit]()
-    - [Løkker og variable]()
-    - [Sensorer]()
-    - [forgreninger]()
+- [Introduktion til micro:bit](./intromicrobit.md)
+    - [Løkker](./loops.md)
+    - [Sensorer og variable](./sensor.md)
+    - [Forgreninger]()
+    - [Radio]()
+- [Fagbegreber]()
 
-# Design af fysiske prototyper
+# Design af fysiske prototyper med storycoding
 - [Introduktion](./introeks.md)
     - [Idégenerering](./idegenerering.md)
     - [Et eksempel](./eksempel.md)
@@ -32,4 +34,4 @@
         - [Tilstandsdiagram](./tilstandeks.md)
         - [Rutediagram](./rutediagrameks.md)
         - [Kode](./kodeeks.md)
-    - [Afslutning](./afslutning.md)
+- [Afslutning: Hvorhen nu?](./afslutning.md)
