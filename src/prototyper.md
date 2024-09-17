@@ -21,22 +21,25 @@ Den anden betegnelse hi-fi kommer også fra engelsk og betyder "high fidelity", 
 Det vigtigt at holde sig for øje, at inddelingen lo-fi og hi-fi ikke er to kasser, men derimod et spænd. Det vil sige, at vi kan tale om, at prototyper kan være mere eller mindre lo-fi eller mindre eller mindre hi-fi. Hvor skiftet mellem lo-fi og hi-fi, så ligger kan der ikke gives noget endegyldigt svar på. Men en tommelfingerregel kunne være, at vi er nærmere hi-fi end lo-fi, når enten prototypens udseende eller dens virkemåde er tæt på det endelige produkt.
 
 ### Papirprototyper
-Den første prototype, det giver mening at lave, vil i langt de fleste tilfælde være en papirprototype. Denne prototype laves ved at man tager et stykke papir og så tegner. Det kan være der tegnes omridset af en mobiltelefon, hvori der tegnes knapper og lignende, der udgør en apps brugergrænseflade. Hvis det er en micro:bit, så tegner man en micro:bit. 
+Den første prototype, det giver mening at lave, vil i langt de fleste tilfælde være en papirprototype. Denne prototype laves ved at man tager et eller flere stykker papir/pap og så tegner. Det kan være der tegnes omridset af en mobiltelefon, hvori der tegnes knapper og lignende, der udgør en apps brugergrænseflade. Hvis det er en fysisk ting, så tegner man den fysiske ting. 
 
-Formålet er at hurtigt at få lavet en skites af det vi har tænkt og som vi hurtigt kan afprøve. Hvis ideen bag prototypen viser sig at være dårlig, så skal vi smide prototypen ud og prøve med noget andet. Derfor er det vigtigt, når man laver en papirprototype, at man ikke bruger en masse tid på at lave **pæne** tegninger. Jo mere energi, der brugt på at lave en papirprototype, jo sværere er det at smide den ud bagefter. Så faren ved pæne tegninger er, at man holder fast på en dårlig idé, fordi man har investeret for meget i den.
+Formålet er at hurtigt at få lavet en skites af det vi har tænkt og som vi hurtigt kan afprøve. Hvis ideen bag prototypen viser sig at være dårlig, så skal vi smide prototypen ud og prøve med noget andet. Derfor er det vigtigt, når man laver en papirprototype, at man ikke bruger en masse tid på at lave **pæne** tegninger. Jo mere energi, der brugt på at lave en papirprototype, jo sværere er det at smide den ud bagefter. Faren ved pæne tegninger er, at man holder fast på en dårlig idé, fordi man har investeret for meget tid i den.
 
-Ideen med papirprototyper er at lave flere tegninger, der hver især viser forskellige skærmbilleder alt efter, hvad der er kan ske, når en bruger anvender det tænkte produkt. På den måde kan man indfange det dynamiske i anvendelse af ens produkt.
+Ideen med papirprototyper er at lave flere tegninger, der hver især viser forskellige billeder alt efter, hvad der er kan ske, når en bruger anvender det tænkte produkt. På den måde kan man indfange det dynamiske i anvendelse af ens produkt.
 
-Et eksempel på en papirprototype kan ses her:
+Et eksempel på en papirprototype, der er en elektronisk nøgle til en dør, kan ses herunder. Først har vi den elektroniske nøgle.
 
-![Papirprototype](./assets/papirprototype.png)
+![Papirprototype af en ting med knapper](./assets/prototypenøgle800.jpg)
 
-Det er en prototype af en standard login-skærm som de ser ud i mobilapps. Der er tre billeder, fordi brugeren af appen først møder login-skærmen, så skal taste sine oplysninger og så logge på. Hvert billede viser en af de tre situationer. Det tog under 5 minutter at tegne alle tre skærme. Det burde være til at se hvad hver skærm viser, men det burde også være tydeligt, at der ikke er gået efter, at det skal være pænt.
+Og her har vi det døren skal vise. Der er tegnet piktogrammer over et dørhåndtag.
 
-Det er også muligt at lave papirprototyper af fysiske objekter. Her tegnes objektet i forskellige udgaver, alt efter hvilken tilstand det er i.
+![Papirprototype af en dør](./assets/prototypedørsamlet.jpg)
+
+Det første billede viser et stykke pap, hvor der er indtegnet tre knapper. På hver knap er der tegnet symboler, der burde fortælle, hvad knappen gør. Ideen er, at hver knap svarer til hver af de tre ruder i billede to. Det har ikke taget undertegnet længere end 5-10 minutter at tegne de to ovenstående tegninger.
 
 Så generelt:
 * Papirprototyper er et første forsøg på at lave noget der kan undersøges.
+* Papirprototyper kan være ting, der ikke findes endnu.
 * Papirprototyper skal kunne smides ud, hvis de ikke er gode.
 * Papirprototyper skal derfor laves hurtigt og ikke alt for pænt.
 * En papirprototype er altid en lo-fi prototype.
