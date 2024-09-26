@@ -6,7 +6,7 @@ Vi kan nu lave et rutediagram for låsen. Udgangspunktet er, at vi har en enkelt
 
 Her er processerne under hver forgrening en funktion, der udfører det som skal ske i hver tilstand.
 
-Vi mangler dog at forklare, hvordan vi kan skifte tilstand. Det afhænger faktisk af, hvad vi får tilsendt fra nøglen. Vi forestiller os, at den kan sende "A", hvis døren er åben i 6 sekunder, der skiftes til. Den kan sende "B", hvis det er åben for altid. Og den kan sende "AB", hvis døren skal låses. Dermed er skal der også at være et rutediagram for modtagelsen af beskeder fra radioen. Det ser sådan ud:
+Vi mangler dog at forklare, hvordan vi kan skifte tilstand. Det afhænger faktisk af, hvad vi får tilsendt fra nøglen. Vi forestiller os, at den kan sende "A", hvis døren skal være åben i 6 sekunder, og der skiftes til tilstand 2. Den kan sende "B", hvis det er åben for altid og der skiftes til tilstand 3. Og den kan sende "AB", hvis døren skal låses, og der skiftes til tilstand 4. Dermed er skal der også at være et rutediagram for modtagelsen af beskeder fra radioen. Det ser sådan ud:
 
 ![Flowchart](./assets/flow2.png)
 

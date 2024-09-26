@@ -3,7 +3,7 @@ På baggrund af vores storyboard kan vi nu lave et tilstandsdiagram. Men først 
 
 Derfor ser vi på låsen. Umiddelbart er der to situationer, enten åbnes døren i 6 sekunder, eller også er den bare åben (billede 2 og 2A). Derfra er der forskellige veje.
 
-Et tilstandsdiagram, hvor tallene i tilstandene er henviser til billeder i [storyboardet](./storyboardeks.md), kan se sådan ud:
+Et tilstandsdiagram, hvor tallene i tilstandene er henviser til billederne i [storyboardet](./storyboardeks.md), kan se sådan ud:
 
 ![Tilstandsdiagram](./assets/tilstand.png)
 
@@ -13,4 +13,4 @@ Vi forestiller os, prototypen skal laves med micro:bit, så der er også angivet
 3. En tilstand, hvor døren er åben indtil den bliver låst. (tilstand 2A,3)
 4. En tilstand, hvor døren låser. (tilstand 4,4A)
 
-Disse fire numre (1.4) vil vi anvende i koden og i rutediagrammerne.
+Disse fire numre (1-4) fra punktopstillingen vil vi anvende i koden og i rutediagrammerne.

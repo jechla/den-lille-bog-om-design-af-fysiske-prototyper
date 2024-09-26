@@ -3,7 +3,7 @@ Vi har nu en situation omhandlende døre. Et storyboard på baggrund af situatio
 
 ![Storyboard](./assets/storyboard800.jpg)
 
-I billede et er vi på vej hen til døren, og trykker på vores nøgle for at få døren til at låse op. Der er to muligheder 2 og 2A (A for alternativ). I situation 2 låser døren op, og den er låst op i 6 sekunder (se billede 4). I Situation 2A, har låst op så døren forbliver oplåst. I billede tre går vi ind ad døren. I billede 4 er der gået 6 sekunder og døren låser. I billede 4A går vi fra døren, men husker at låse den.
+I billede 1 er vi på vej hen til døren, og trykker på vores nøgle for at få døren til at låse op. Der er to muligheder 2 og 2A (A for alternativ). I situation 2 låser døren op, og den er låst op i 6 sekunder (se billede 4). I Situation 2A, har låst op så døren forbliver oplåst. I billede 3 går vi ind ad døren. I billede 4 er der gået 6 sekunder, og døren låser. I billede 4A går vi fra døren, men husker at låse den.
 
 På denne måde har vi indfanget situationen. Vi kan nu lave et tilstandsdiagram. Der er to ting som umiddelbart kan ses ud af storyboardet, nemlig at vi skal anvende to enheder, en som nøgle og en som lås. Og de skal kunne kommunikere over radio. 
 
