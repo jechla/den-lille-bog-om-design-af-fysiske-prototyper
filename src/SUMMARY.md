@@ -16,15 +16,14 @@
     - [Affordance](./affordance.md)    
 
 # Micro:bit programmering og sensorer
-- [Programmer og computere]()
-    - [Tilstandsdiagrammer]()
-    - [Rutediagrammer]() 
+- [Programmer og computere](./pc.md)
+    - [Tilstandsdiagrammer](tilstand.md)
+    - [Rutediagrammer](./rute.md) 
 - [Introduktion til micro:bit](./intromicrobit.md)
-    - [Løkker](./loops.md)
+    - [Løkker og forgreninger](./loops.md)
     - [Sensorer og variable](./sensor.md)
-    - [Forgreninger]()
-    - [Radio]()
-- [Fagbegreber]()
+    - [Radio](./radio.md)
+- [Fagbegreber](./fagbegreber.md)
 
 # Design af fysiske prototyper med storycoding
 - [Introduktion](./introeks.md)

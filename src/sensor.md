@@ -38,3 +38,8 @@ Vi bruger næsten altid "Serie skriv værdi", fordi den tillader, at vi giver m�
 
 ![Lydniveau med seriel forbindelse](./assets/makecode/lydniveauseriel.png)
 
+Vi kan så se grafer for lydniveauet ved at se efter "show data ..." Enten kan man simulere data, eller hvis man har en micro:bit tilkoblet se de rigtige målinger.
+
+![](./assets/makecode/showdata.png)
+
+Målingerne kan gemmes som csv-fil.
