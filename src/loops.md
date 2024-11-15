@@ -10,7 +10,7 @@ Alt hvad der inden for denne blok vil blive kørt igen og igen indtil der ikke e
 
 Kodedelene til dette findes alle under "Grundlæggende" (eng: basic). Dette er ikke særligt interessant, men det viser hvordan "for altid"-løkken virker.
 
-##Vandautomaten
+## Vandautomaten
 
 Vi vil nu prøve at programmere [vandautomaten](./pc.md#et-eksempel). Dog vil selve det at åbne og lukke for vandet være noget som vi ikke har mulighed for. Så i stedet vil vi vise med micro:bittens dioder, at der er tændt for koldt eller almindeligt vand.
 
